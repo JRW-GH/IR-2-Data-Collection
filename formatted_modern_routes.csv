@@ -1,0 +1,297 @@
+ROUTE,ROUTE_TYPE,PASSENGERS,FREIGHT,MAIL,DISTANCE,UNIQUE_CARRIER,UNIQUE_CARRIER_NAME,ORIGIN,ORIGIN_CITY_NAME,DEST,DEST_CITY_NAME,YEAR,QUARTER,MONTH,CLASS,CRUISE_SPEED_MPH,TIME_ELAPSED_HRS,CRUISE_ALTITUDE_FT,AIRCRAFT_MODEL,FUEL_BURN_LBS_PER_HOUR,TOTAL_FUEL_BURN_LBS
+ABQ - LGA,Medium-haul,27,0,0,1821,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,4,12,F,360,6,28087,Boeing 737-800,5282,31690
+ABQ - LGA,Medium-haul,116,0,0,1821,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,2,5,F,360,6,31466,Boeing 737-800,5792,34749
+ABQ - LGA,Medium-haul,123,0,0,1821,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,4,11,F,360,6,30376,Boeing 737-800,6000,36000
+ABQ - LGA,Medium-haul,148,0,0,1821,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,4,10,F,360,6,30823,Boeing 737-800,5595,33573
+ABQ - LGA,Medium-haul,153,0,0,1821,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,2,6,F,360,6,30171,Boeing 737-800,6000,36000
+ABQ - LGA,Medium-haul,169,0,0,1821,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,3,7,F,360,6,30344,Boeing 737-800,5561,33364
+ABQ - LGA,Medium-haul,202,0,0,1821,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,3,9,F,360,6,30931,Boeing 737-800,5919,35513
+ABQ - LGA,Medium-haul,227,0,0,1821,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,3,8,F,360,6,28894,Boeing 737-800,5475,32849
+ABQ - LGA,Medium-haul,0,0,0,1821,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,4,10,F,360,6,29355,Airbus A320,6000,36000
+ABQ - LGA,Medium-haul,4,0,0,1821,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,4,12,F,360,6,30087,Airbus A320,6000,36000
+ABQ - LGA,Medium-haul,19,0,0,1821,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,4,11,F,360,6,29482,Airbus A320,6000,36000
+ABQ - LGA,Medium-haul,17,0,0,1821,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,1,1,F,360,6,30097,Boeing 737-700,5400,32400
+ABQ - LGA,Medium-haul,29,0,0,1821,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",LGA,"New York, NY",2024,4,12,F,360,6,30261,Boeing 737-700,5160,30963
+ABQ - ORD,Medium-haul,1011,0,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,11,F,360,4.04,29839,Boeing 737-800,6000,24225
+ABQ - ORD,Medium-haul,1741,0,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,12,F,360,4.04,29973,Boeing 737-800,6000,24225
+ABQ - ORD,Medium-haul,2346,0,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,1,2,F,360,4.04,31143,Boeing 737-800,6000,24225
+ABQ - ORD,Medium-haul,2645,0,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,1,1,F,360,4.04,32190,Boeing 737-800,5864,23677
+ABQ - ORD,Medium-haul,2959,0,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,1,3,F,360,4.04,28938,Boeing 737-800,5718,23088
+ABQ - ORD,Medium-haul,4393,1392,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,3,9,F,365,3.98,28769,Boeing 737-800,5521,21994
+ABQ - ORD,Medium-haul,4709,125,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,2,6,F,360,4.04,28763,Boeing 737-800,6000,24225
+ABQ - ORD,Medium-haul,4777,0,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,2,4,F,360,4.04,30232,Boeing 737-800,6000,24225
+ABQ - ORD,Medium-haul,4827,103,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,3,7,F,366,3.97,29025,Boeing 737-800,5640,22408
+ABQ - ORD,Medium-haul,4830,290,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,3,8,F,360,4.04,31897,Boeing 737-800,6000,24225
+ABQ - ORD,Medium-haul,5134,0,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,2,5,F,360,4.04,30277,Boeing 737-800,6000,24225
+ABQ - ORD,Medium-haul,7944,729,0,1118,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,10,F,360,4.04,29143,Boeing 737-800,5722,23102
+ABQ - ORD,Medium-haul,405,0,0,1118,MQ,Envoy Air,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,10,F,360,4.04,29153,Airbus A320,5794,23393
+ABQ - ORD,Medium-haul,1239,0,0,1118,MQ,Envoy Air,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,12,F,360,4.04,30385,Airbus A320,5461,22049
+ABQ - ORD,Medium-haul,1538,0,0,1118,MQ,Envoy Air,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,3,9,F,360,4.04,31083,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,1777,0,0,1118,MQ,Envoy Air,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,11,F,360,4.04,33853,Airbus A320,5992,24194
+ABQ - ORD,Medium-haul,69,0,0,1118,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,3,8,F,360,4.04,29227,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,286,0,0,1118,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,3,9,F,360,4.04,28387,Airbus A320,5601,22616
+ABQ - ORD,Medium-haul,750,0,0,1118,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,1,3,F,360,4.04,29270,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,1034,0,0,1118,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,2,4,F,360,4.04,30186,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,1490,0,0,1118,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,12,F,360,4.04,28800,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,1563,0,0,1118,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,1,1,F,360,4.04,30918,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,1819,0,0,1118,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,10,F,360,4.04,30444,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,1990,0,0,1118,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,1,2,F,360,4.04,28752,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,721,0,0,1118,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,1,1,F,360,4.04,31163,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,1081,50,0,1118,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,12,F,360,4.04,29615,Airbus A320,5759,23251
+ABQ - ORD,Medium-haul,1959,35,0,1118,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,2,4,F,360,4.04,29848,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,2428,32,0,1118,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,1,3,F,360,4.04,30850,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,3602,46,0,1118,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,11,F,360,4.04,29171,Airbus A320,5674,22909
+ABQ - ORD,Medium-haul,3824,5,0,1118,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,2,6,F,360,4.04,29408,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,3998,19,0,1118,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,3,8,F,360,4.04,31305,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,4201,9,0,1118,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,2,5,F,360,4.04,30595,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,4205,0,0,1118,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,3,7,F,360,4.04,30624,Airbus A320,6000,24225
+ABQ - ORD,Medium-haul,4256,23,0,1118,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,10,F,360,4.04,29853,Airbus A320,5881,23746
+ABQ - ORD,Medium-haul,6561,12,0,1118,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,3,9,F,360,4.04,30245,Airbus A320,5679,22930
+ABQ - ORD,Medium-haul,6,0,0,1118,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,1,3,F,360,4.04,29787,Boeing 737-700,5260,21237
+ABQ - ORD,Medium-haul,18,0,0,1118,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,1,2,F,360,4.04,29981,Boeing 737-700,5400,21802
+ABQ - ORD,Medium-haul,20,0,0,1118,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,1,1,F,360,4.04,30402,Boeing 737-700,5400,21802
+ABQ - ORD,Medium-haul,23,0,0,1118,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,4,10,F,360,4.04,30025,Boeing 737-700,5400,21802
+ABQ - ORD,Medium-haul,28,1,0,1118,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,3,9,F,360,4.04,30183,Boeing 737-700,5400,21802
+ABQ - ORD,Medium-haul,59,0,0,1118,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",ORD,"Chicago, IL",2024,3,8,F,360,4.04,29241,Boeing 737-700,5169,20869
+ABQ - PDX,Medium-haul,5,0,0,1111,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,4,11,F,360,4.03,30492,Boeing 737-800,5623,22631
+ABQ - PDX,Medium-haul,1131,0,0,1111,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,4,10,F,360,4.03,29885,Boeing 737-800,6000,24150
+ABQ - PDX,Medium-haul,442,0,0,1111,QX,Horizon Air,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,1,1,F,360,4.03,30623,Airbus A320,5744,23121
+ABQ - PDX,Medium-haul,1153,78,0,1111,QX,Horizon Air,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,1,3,F,360,4.03,28466,Airbus A320,6000,24150
+ABQ - PDX,Medium-haul,1580,112,0,1111,QX,Horizon Air,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,4,10,F,360,4.03,30068,Airbus A320,6000,24150
+ABQ - PDX,Medium-haul,1696,191,0,1111,QX,Horizon Air,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,2,4,F,360,4.03,29035,Airbus A320,6000,24150
+ABQ - PDX,Medium-haul,1801,148,0,1111,QX,Horizon Air,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,2,5,F,360,4.03,30718,Airbus A320,6000,24150
+ABQ - PDX,Medium-haul,1881,192,0,1111,QX,Horizon Air,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,4,11,F,360,4.03,30384,Airbus A320,5931,23873
+ABQ - PDX,Medium-haul,1987,381,0,1111,QX,Horizon Air,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,4,12,F,360,4.03,29060,Airbus A320,5829,23463
+ABQ - PDX,Medium-haul,2052,0,0,1111,QX,Horizon Air,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,3,9,F,360,4.03,29470,Airbus A320,5672,22831
+ABQ - PDX,Medium-haul,2060,68,0,1111,QX,Horizon Air,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,2,6,F,360,4.03,30035,Airbus A320,6000,24150
+ABQ - PDX,Medium-haul,2088,0,0,1111,QX,Horizon Air,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,3,7,F,360,4.03,29469,Airbus A320,6000,24150
+ABQ - PDX,Medium-haul,2130,95,0,1111,QX,Horizon Air,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,3,8,F,360,4.03,29751,Airbus A320,6000,24150
+ABQ - PDX,Medium-haul,64,0,0,1111,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,3,8,F,360,4.03,28394,Airbus A320,6000,24150
+ABQ - PDX,Medium-haul,66,0,0,1111,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,4,10,F,360,4.03,30882,Airbus A320,6000,24150
+ABQ - PDX,Medium-haul,82,0,0,1111,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,3,9,F,360,4.03,28963,Airbus A320,6000,24150
+ABQ - PDX,Medium-haul,89,0,0,1111,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,3,7,F,360,4.03,30563,Airbus A320,6000,24150
+ABQ - PDX,Medium-haul,13,477,0,1111,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,3,8,F,360,4.03,30270,Boeing 737-700,5400,21735
+ABQ - PDX,Medium-haul,14,266,0,1111,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,1,3,F,360,4.03,29022,Boeing 737-700,5400,21735
+ABQ - PDX,Medium-haul,48,1045,0,1111,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,2,6,F,360,4.03,29237,Boeing 737-700,5400,21735
+ABQ - PDX,Medium-haul,95,299,0,1111,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,1,1,F,360,4.03,28338,Boeing 737-700,5186,20875
+ABQ - PDX,Medium-haul,95,576,0,1111,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,3,7,F,360,4.03,31006,Boeing 737-700,5229,21049
+ABQ - PDX,Medium-haul,111,1071,0,1111,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",PDX,"Portland, OR",2024,1,2,F,360,4.03,29203,Boeing 737-700,5400,21735
+ABQ - SEA,Medium-haul,1938,513,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,3,8,F,529,2.86,31168,Boeing 737-800,6000,17187
+ABQ - SEA,Medium-haul,2853,1072,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,1,1,F,529,2.86,29579,Boeing 737-800,6000,17187
+ABQ - SEA,Medium-haul,3426,609,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,1,2,F,529,2.86,27962,Boeing 737-800,6000,17187
+ABQ - SEA,Medium-haul,4257,1090,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,1,3,F,529,2.86,29781,Boeing 737-800,5785,16570
+ABQ - SEA,Medium-haul,4710,600,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,3,9,F,529,2.86,30338,Boeing 737-800,5142,14729
+ABQ - SEA,Medium-haul,4824,1021,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,3,7,F,529,2.86,29150,Boeing 737-800,6000,17187
+ABQ - SEA,Medium-haul,4834,657,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,2,6,F,529,2.86,31038,Boeing 737-800,5765,16514
+ABQ - SEA,Medium-haul,5280,1327,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,2,4,F,529,2.86,29078,Boeing 737-800,6000,17187
+ABQ - SEA,Medium-haul,5856,791,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,2,5,F,529,2.86,28221,Boeing 737-800,6000,17187
+ABQ - SEA,Medium-haul,6792,1422,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,4,11,F,529,2.86,30129,Boeing 737-800,6000,17187
+ABQ - SEA,Medium-haul,6799,1839,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,4,12,F,529,2.86,31882,Boeing 737-800,6000,17187
+ABQ - SEA,Medium-haul,8242,1122,0,1180,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,4,10,F,529,2.86,31094,Boeing 737-800,5840,16728
+ABQ - SEA,Medium-haul,147,0,0,1180,QX,Horizon Air,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,1,1,F,529,2.86,30823,Airbus A320,6000,17187
+ABQ - SEA,Medium-haul,1541,121,0,1180,QX,Horizon Air,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,3,7,F,529,2.86,28497,Airbus A320,5842,16735
+ABQ - SEA,Medium-haul,1784,302,0,1180,QX,Horizon Air,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,3,9,F,529,2.86,31849,Airbus A320,6000,17187
+ABQ - SEA,Medium-haul,3441,677,0,1180,QX,Horizon Air,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,3,8,F,529,2.86,29976,Airbus A320,6000,17187
+ABQ - SEA,Medium-haul,12,0,0,1180,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,1,1,F,529,2.86,29287,Airbus A320,6000,17187
+ABQ - SEA,Medium-haul,3,0,0,1180,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,3,8,F,529,2.86,27927,Boeing 737-700,5400,15468
+ABQ - SEA,Medium-haul,6,0,0,1180,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,4,10,F,529,2.86,30936,Boeing 737-700,5400,15468
+ABQ - SEA,Medium-haul,15,0,0,1180,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,3,7,F,529,2.86,30713,Boeing 737-700,5400,15468
+ABQ - SEA,Medium-haul,19,0,0,1180,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,2,6,F,529,2.86,28919,Boeing 737-700,5400,15468
+ABQ - SEA,Medium-haul,56,14,0,1180,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",SEA,"Seattle, WA",2024,1,1,F,529,2.86,29815,Boeing 737-700,5400,15468
+ALB - IAH,Medium-haul,0,0,0,1482,C5,CommuteAir LLC dba CommuteAir,ALB,"Albany, NY",IAH,"Houston, TX",2024,4,12,F,458,3.97,28720,Airbus A320,6000,23823
+ALB - IAH,Medium-haul,6,0,0,1482,UA,United Air Lines Inc.,ALB,"Albany, NY",IAH,"Houston, TX",2024,2,5,F,529,3.43,30399,Airbus A320,5033,17285
+ALB - IAH,Medium-haul,16,0,0,1482,UA,United Air Lines Inc.,ALB,"Albany, NY",IAH,"Houston, TX",2024,2,6,F,455,3.99,30308,Airbus A320,5333,21304
+ALB - IAH,Medium-haul,4,0,0,1482,WN,Southwest Airlines Co.,ALB,"Albany, NY",IAH,"Houston, TX",2024,1,3,F,529,3.43,30348,Boeing 737-700,4461,15318
+ALB - IAH,Medium-haul,20,0,0,1482,WN,Southwest Airlines Co.,ALB,"Albany, NY",IAH,"Houston, TX",2024,1,2,F,520,3.49,31029,Boeing 737-700,5095,17803
+ALB - IAH,Medium-haul,22,0,0,1482,WN,Southwest Airlines Co.,ALB,"Albany, NY",IAH,"Houston, TX",2024,1,1,F,481,3.78,28720,Boeing 737-700,5290,19994
+ALB - MCO,Medium-haul,2745,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,2,5,F,529,2.66,29388,Airbus A320,5424,14430
+ALB - MCO,Medium-haul,3072,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,3,9,F,529,2.66,32632,Airbus A320,5546,14754
+ALB - MCO,Medium-haul,3511,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,1,1,F,510,2.76,32560,Airbus A320,5667,15651
+ALB - MCO,Medium-haul,3580,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,2,6,F,461,3.06,31812,Airbus A320,6000,18334
+ALB - MCO,Medium-haul,3979,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,1,2,F,529,2.66,29273,Airbus A320,5895,15682
+ALB - MCO,Medium-haul,4207,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,2,4,F,529,2.66,30611,Airbus A320,5804,15441
+ALB - MCO,Medium-haul,4383,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,3,7,F,529,2.66,30430,Airbus A320,6000,15963
+ALB - MCO,Medium-haul,4497,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,3,8,F,483,2.92,30682,Airbus A320,5895,17199
+ALB - MCO,Medium-haul,4523,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,1,3,F,529,2.66,29566,Airbus A320,5773,15360
+ALB - MCO,Medium-haul,4560,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,4,10,F,529,2.66,29560,Airbus A320,6000,15963
+ALB - MCO,Medium-haul,7962,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,4,11,F,529,2.66,30082,Airbus A320,6000,15963
+ALB - MCO,Medium-haul,8320,0,0,1073,B6,JetBlue Airways,ALB,"Albany, NY",MCO,"Orlando, FL",2024,4,12,F,529,2.66,31453,Airbus A320,6000,15963
+ALB - MCO,Medium-haul,0,0,0,1073,UA,United Air Lines Inc.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,3,9,F,529,2.66,28996,Airbus A320,5200,13834
+ALB - MCO,Medium-haul,5573,245,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,2,6,F,529,2.66,29786,Boeing 737-700,5125,13635
+ALB - MCO,Medium-haul,6462,626,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,3,7,F,475,2.96,30289,Boeing 737-700,5400,16010
+ALB - MCO,Medium-haul,6470,506,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,4,12,F,529,2.66,31189,Boeing 737-700,5305,14113
+ALB - MCO,Medium-haul,6964,575,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,4,11,F,529,2.66,30203,Boeing 737-700,4484,11931
+ALB - MCO,Medium-haul,7396,374,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,4,10,F,529,2.66,30334,Boeing 737-700,5400,14367
+ALB - MCO,Medium-haul,7556,1493,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,3,9,F,505,2.79,29967,Boeing 737-700,5400,15063
+ALB - MCO,Medium-haul,8149,860,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,2,5,F,529,2.66,29469,Boeing 737-700,5099,13567
+ALB - MCO,Medium-haul,8216,1036,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,1,1,F,497,2.83,30591,Boeing 737-700,5400,15298
+ALB - MCO,Medium-haul,8644,1568,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,1,2,F,473,2.98,30649,Boeing 737-700,5400,16072
+ALB - MCO,Medium-haul,8873,1049,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,2,4,F,529,2.66,30029,Boeing 737-700,5400,14367
+ALB - MCO,Medium-haul,9036,366,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,3,8,F,522,2.7,32163,Boeing 737-700,5315,14352
+ALB - MCO,Medium-haul,9382,680,0,1073,WN,Southwest Airlines Co.,ALB,"Albany, NY",MCO,"Orlando, FL",2024,1,3,F,529,2.66,30608,Boeing 737-700,5261,13997
+ABQ - AUS,Regional,188,0,0,619,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,4,10,F,324,2.72,24300,Embraer E175,2864,7794
+ABQ - AUS,Regional,1333,0,0,619,MQ,Envoy Air,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,1,1,F,296,2.98,24445,Embraer E175,3000,8949
+ABQ - AUS,Regional,61,0,0,619,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,1,1,F,300,2.94,25708,Embraer E175,2885,8483
+ABQ - AUS,Regional,0,0,0,619,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,2,6,F,291,3.04,26847,Embraer E175,2775,8422
+ABQ - AUS,Regional,4620,1375,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,1,2,F,309,2.86,25352,Boeing 737-700,4620,13201
+ABQ - AUS,Regional,5030,647,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,1,1,F,282,3.13,25570,Boeing 737-700,5400,16876
+ABQ - AUS,Regional,5953,1455,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,4,11,F,319,2.76,26440,Boeing 737-700,4801,13274
+ABQ - AUS,Regional,6318,1911,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,3,8,F,289,3.05,25841,Boeing 737-700,5226,15930
+ABQ - AUS,Regional,6324,1955,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,3,9,F,312,2.83,25760,Boeing 737-700,5114,14459
+ABQ - AUS,Regional,6495,1200,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,2,4,F,300,2.94,26503,Boeing 737-700,5399,15887
+ABQ - AUS,Regional,6804,1292,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,2,5,F,327,2.7,24318,Boeing 737-700,4483,12084
+ABQ - AUS,Regional,7031,423,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,4,12,F,336,2.63,26399,Boeing 737-700,4960,13035
+ABQ - AUS,Regional,7301,2652,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,1,3,F,295,2.99,25635,Boeing 737-700,5362,16025
+ABQ - AUS,Regional,7372,1293,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,2,6,F,316,2.79,26736,Boeing 737-700,5142,14341
+ABQ - AUS,Regional,7561,720,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,3,7,F,300,2.94,24426,Boeing 737-700,5037,14811
+ABQ - AUS,Regional,8707,2806,0,619,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",AUS,"Austin, TX",2024,4,10,F,310,2.84,25614,Boeing 737-700,4873,13850
+ABQ - DEN,Regional,184,0,0,349,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,1,3,F,412,1.49,21574,Embraer E175,2936,4367
+ABQ - DEN,Regional,566,0,0,349,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,1,1,F,412,1.49,21079,Embraer E175,3000,4462
+ABQ - DEN,Regional,627,0,0,349,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,1,2,F,412,1.49,21380,Embraer E175,3000,4462
+ABQ - DEN,Regional,1327,0,0,349,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,2,5,F,412,1.49,19974,Embraer E175,3000,4462
+ABQ - DEN,Regional,2364,0,0,349,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,4,10,F,412,1.49,18260,Embraer E175,3000,4462
+ABQ - DEN,Regional,3098,0,0,349,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,3,7,F,412,1.49,19953,Embraer E175,3000,4462
+ABQ - DEN,Regional,3345,0,0,349,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,3,9,F,412,1.49,19572,Embraer E175,3000,4462
+ABQ - DEN,Regional,3362,0,0,349,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,3,8,F,412,1.49,20382,Embraer E175,3000,4462
+ABQ - DEN,Regional,3503,0,0,349,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,4,11,F,412,1.49,19963,Embraer E175,3000,4462
+ABQ - DEN,Regional,3639,0,0,349,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,2,6,F,412,1.49,20916,Embraer E175,3000,4462
+ABQ - DEN,Regional,3799,0,0,349,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,4,12,F,412,1.49,18960,Embraer E175,3000,4462
+ABQ - DEN,Regional,0,0,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,2,4,F,412,1.49,20870,Embraer E175,3000,4462
+ABQ - DEN,Regional,0,0,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,2,6,F,412,1.49,21051,Embraer E175,3000,4462
+ABQ - DEN,Regional,7636,9,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,4,11,F,412,1.49,20303,Embraer E175,3000,4462
+ABQ - DEN,Regional,8277,9,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,2,6,F,412,1.49,20454,Embraer E175,3000,4462
+ABQ - DEN,Regional,8310,37,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,3,9,F,412,1.49,19702,Embraer E175,3000,4462
+ABQ - DEN,Regional,8363,72,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,1,1,F,412,1.49,18560,Embraer E175,3000,4462
+ABQ - DEN,Regional,8529,70,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,4,12,F,412,1.49,21642,Embraer E175,3000,4462
+ABQ - DEN,Regional,9000,28,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,3,8,F,412,1.49,22291,Embraer E175,3000,4462
+ABQ - DEN,Regional,9367,14,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,1,2,F,412,1.49,20595,Embraer E175,3000,4462
+ABQ - DEN,Regional,9751,116,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,3,7,F,412,1.49,19719,Embraer E175,3000,4462
+ABQ - DEN,Regional,11440,70,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,4,10,F,412,1.49,20918,Embraer E175,2935,4366
+ABQ - DEN,Regional,11827,64,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,2,5,F,412,1.49,19032,Embraer E175,3000,4462
+ABQ - DEN,Regional,12311,21,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,1,3,F,412,1.49,19980,Embraer E175,3000,4462
+ABQ - DEN,Regional,12691,13,0,349,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,2,4,F,412,1.49,20543,Embraer E175,3000,4462
+ABQ - DEN,Regional,9765,5491,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,1,1,F,412,1.49,18756,Boeing 737-700,5364,7979
+ABQ - DEN,Regional,10758,5923,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,1,2,F,412,1.49,20279,Boeing 737-700,5400,8032
+ABQ - DEN,Regional,13581,10715,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,3,8,F,412,1.49,19815,Boeing 737-700,5400,8032
+ABQ - DEN,Regional,13656,15820,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,3,9,F,412,1.49,18630,Boeing 737-700,5400,8032
+ABQ - DEN,Regional,13827,6298,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,4,11,F,412,1.49,20569,Boeing 737-700,5400,8032
+ABQ - DEN,Regional,14112,9837,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,4,12,F,412,1.49,18776,Boeing 737-700,5400,8032
+ABQ - DEN,Regional,14703,10098,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,1,3,F,412,1.49,18006,Boeing 737-700,5400,8032
+ABQ - DEN,Regional,15541,10611,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,2,4,F,412,1.49,19944,Boeing 737-700,5400,8032
+ABQ - DEN,Regional,15951,13307,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,3,7,F,412,1.49,19889,Boeing 737-700,5400,8032
+ABQ - DEN,Regional,16368,11332,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,4,10,F,412,1.49,19684,Boeing 737-700,5400,8032
+ABQ - DEN,Regional,16561,14282,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,2,6,F,412,1.49,20134,Boeing 737-700,5400,8032
+ABQ - DEN,Regional,17007,11711,0,349,WN,Southwest Airlines Co.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,2,5,F,412,1.49,20508,Boeing 737-700,5400,8032
+ABQ - DEN,Regional,0,0,0,349,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",DEN,"Denver, CO",2024,1,2,F,412,1.49,20082,Embraer E175,3000,4462
+ABQ - DFW,Regional,20113,1260,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,2,4,F,412,2.02,25992,Embraer E175,3000,6069
+ABQ - DFW,Regional,20366,2718,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,3,9,F,412,2.02,26086,Embraer E175,2968,6005
+ABQ - DFW,Regional,21139,1610,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,1,1,F,412,2.02,23688,Embraer E175,2954,5975
+ABQ - DFW,Regional,21440,3086,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,3,8,F,412,2.02,24930,Embraer E175,3000,6069
+ABQ - DFW,Regional,21859,2214,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,2,6,F,402,2.07,25600,Embraer E175,3000,6222
+ABQ - DFW,Regional,22120,0,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,4,12,F,393,2.12,24387,Embraer E175,3000,6366
+ABQ - DFW,Regional,22478,697,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,4,11,F,412,2.02,26191,Embraer E175,3000,6069
+ABQ - DFW,Regional,23221,3019,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,1,2,F,412,2.02,23830,Embraer E175,2344,4741
+ABQ - DFW,Regional,23327,1899,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,2,5,F,412,2.02,25392,Embraer E175,2709,5481
+ABQ - DFW,Regional,23535,4133,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,3,7,F,412,2.02,26197,Embraer E175,3000,6069
+ABQ - DFW,Regional,25460,2511,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,4,10,F,412,2.02,26712,Embraer E175,2644,5349
+ABQ - DFW,Regional,26855,1565,0,569,AA,American Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,1,3,F,412,2.02,24394,Embraer E175,3000,6069
+ABQ - DFW,Regional,157,0,0,569,AS,Alaska Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,2,6,F,399,2.09,25299,Embraer E175,3000,6267
+ABQ - DFW,Regional,1982,0,0,569,MQ,Envoy Air,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,2,4,F,412,2.02,27013,Embraer E175,3000,6069
+ABQ - DFW,Regional,2042,0,0,569,MQ,Envoy Air,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,4,11,F,412,2.02,24343,Embraer E175,2745,5553
+ABQ - DFW,Regional,2076,0,0,569,MQ,Envoy Air,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,2,5,F,412,2.02,23578,Embraer E175,3000,6069
+ABQ - DFW,Regional,2330,0,0,569,MQ,Envoy Air,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,4,10,F,412,2.02,27165,Embraer E175,2837,5739
+ABQ - DFW,Regional,2535,0,0,569,MQ,Envoy Air,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,3,7,F,388,2.14,25538,Embraer E175,3000,6433
+ABQ - DFW,Regional,3186,0,0,569,MQ,Envoy Air,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,4,12,F,412,2.02,23897,Embraer E175,2750,5563
+ABQ - DFW,Regional,4017,320,0,569,MQ,Envoy Air,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,3,9,F,412,2.02,24833,Embraer E175,3000,6069
+ABQ - DFW,Regional,4227,0,0,569,MQ,Envoy Air,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,2,6,F,412,2.02,26173,Embraer E175,3000,6069
+ABQ - DFW,Regional,4382,0,0,569,MQ,Envoy Air,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,3,8,F,412,2.02,26238,Embraer E175,2863,5793
+ABQ - DFW,Regional,1589,0,0,569,NK,Spirit Air Lines,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,4,10,F,412,2.02,23239,Airbus A319,5040,10196
+ABQ - DFW,Regional,26,0,0,569,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,3,9,F,412,2.02,24791,Embraer E175,2951,5971
+ABQ - DFW,Regional,64,0,0,569,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,2,4,F,412,2.02,25445,Embraer E175,3000,6069
+ABQ - DFW,Regional,123,0,0,569,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,4,11,F,412,2.02,24879,Embraer E175,2907,5882
+ABQ - DFW,Regional,163,0,0,569,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,3,8,F,412,2.02,24600,Embraer E175,2922,5910
+ABQ - DFW,Regional,194,0,0,569,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,2,6,F,399,2.09,24448,Embraer E175,3000,6270
+ABQ - DFW,Regional,953,0,0,569,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,3,7,F,392,2.13,26208,Embraer E175,3000,6376
+ABQ - DFW,Regional,0,0,0,569,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",DFW,"Dallas/Fort Worth, TX",2024,4,11,F,412,2.02,24830,Embraer E175,2939,5945
+ABQ - IAH,Regional,50,0,0,744,C5,CommuteAir LLC dba CommuteAir,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,2,5,F,385,2.62,24806,Embraer E175,2897,7585
+ABQ - IAH,Regional,100,0,0,744,C5,CommuteAir LLC dba CommuteAir,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,1,2,F,367,2.74,23976,Embraer E175,3000,8232
+ABQ - IAH,Regional,192,0,0,744,C5,CommuteAir LLC dba CommuteAir,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,2,6,F,379,2.66,26089,Embraer E175,3000,7971
+ABQ - IAH,Regional,192,0,0,744,C5,CommuteAir LLC dba CommuteAir,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,4,12,F,351,2.87,25323,Embraer E175,3000,8610
+ABQ - IAH,Regional,245,0,0,744,C5,CommuteAir LLC dba CommuteAir,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,1,3,F,367,2.75,22128,Embraer E175,2626,7211
+ABQ - IAH,Regional,141,0,0,744,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,4,12,F,380,2.65,24002,Embraer E175,3000,7948
+ABQ - IAH,Regional,239,0,0,744,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,2,6,F,395,2.55,24173,Embraer E175,2950,7526
+ABQ - IAH,Regional,259,0,0,744,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,3,7,F,372,2.71,24979,Embraer E175,2922,7926
+ABQ - IAH,Regional,470,0,0,744,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,1,1,F,412,2.45,25516,Embraer E175,2429,5946
+ABQ - IAH,Regional,568,0,0,744,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,3,9,F,412,2.45,25466,Embraer E175,2814,6888
+ABQ - IAH,Regional,1120,0,0,744,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,4,10,F,412,2.45,26149,Embraer E175,2515,6156
+ABQ - IAH,Regional,1330,0,0,744,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,3,8,F,377,2.67,24172,Embraer E175,2891,7721
+ABQ - IAH,Regional,3514,0,0,744,OO,SkyWest Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,2,5,F,350,2.88,23990,Embraer E175,2790,8033
+ABQ - IAH,Regional,3207,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,1,1,F,335,3.01,24354,Embraer E175,2949,8879
+ABQ - IAH,Regional,3613,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,1,2,F,333,3.03,24748,Embraer E175,2869,8694
+ABQ - IAH,Regional,3778,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,3,8,F,392,2.57,25299,Embraer E175,2684,6897
+ABQ - IAH,Regional,3842,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,3,9,F,412,2.45,24332,Embraer E175,3000,7344
+ABQ - IAH,Regional,3861,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,3,7,F,337,2.99,25485,Embraer E175,2806,8394
+ABQ - IAH,Regional,3890,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,4,11,F,412,2.45,25424,Embraer E175,3000,7344
+ABQ - IAH,Regional,4041,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,2,6,F,381,2.64,23938,Embraer E175,2782,7356
+ABQ - IAH,Regional,4145,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,1,3,F,372,2.71,25326,Embraer E175,2989,8090
+ABQ - IAH,Regional,4145,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,4,10,F,382,2.64,23993,Embraer E175,2960,7818
+ABQ - IAH,Regional,4205,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,2,5,F,360,2.8,24977,Embraer E175,2755,7716
+ABQ - IAH,Regional,4261,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,2,4,F,411,2.46,24608,Embraer E175,2645,6493
+ABQ - IAH,Regional,4277,0,0,744,UA,United Air Lines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,4,12,F,311,3.24,24568,Embraer E175,3000,9721
+ABQ - IAH,Regional,1585,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,2,5,F,361,2.79,24535,Embraer E175,2712,7569
+ABQ - IAH,Regional,2888,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,1,1,F,357,2.82,23654,Embraer E175,2853,8051
+ABQ - IAH,Regional,2958,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,1,2,F,319,3.16,25351,Embraer E175,3000,9472
+ABQ - IAH,Regional,3591,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,4,12,F,377,2.68,26900,Embraer E175,2954,7905
+ABQ - IAH,Regional,3685,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,3,8,F,412,2.45,24465,Embraer E175,2641,6466
+ABQ - IAH,Regional,3799,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,1,3,F,375,2.69,24740,Embraer E175,2913,7834
+ABQ - IAH,Regional,4336,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,3,9,F,347,2.91,25367,Embraer E175,3000,8718
+ABQ - IAH,Regional,4538,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,4,10,F,372,2.71,23384,Embraer E175,2590,7009
+ABQ - IAH,Regional,4603,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,2,6,F,406,2.48,25070,Embraer E175,2933,7280
+ABQ - IAH,Regional,4717,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,3,7,F,380,2.65,26001,Embraer E175,2411,6394
+ABQ - IAH,Regional,4882,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,4,11,F,350,2.88,24863,Embraer E175,2996,8634
+ABQ - IAH,Regional,5480,0,0,744,YV,Mesa Airlines Inc.,ABQ,"Albuquerque, NM",IAH,"Houston, TX",2024,2,4,F,367,2.74,23398,Embraer E175,3000,8233
+ANC - MSP,Transcontinental,646,1397,0,2519,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,2,5,F,400,7.24,35044,Boeing 737-900ER,6600,47768
+ANC - MSP,Transcontinental,2612,2824,0,2519,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,3,8,F,400,7.24,34963,Boeing 737-900ER,6451,46686
+ANC - MSP,Transcontinental,2613,2732,0,2519,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,2,6,F,400,7.24,35082,Boeing 737-900ER,6267,45354
+ANC - MSP,Transcontinental,4107,15187,0,2519,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,3,7,F,400,7.24,35115,Boeing 737-900ER,6600,47768
+ANC - MSP,Transcontinental,2306,2733,0,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,1,2,F,400,7.24,36076,Airbus A330-300,18000,130275
+ANC - MSP,Transcontinental,3008,2790,0,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,1,1,F,400,7.24,33416,Airbus A330-300,18000,130275
+ANC - MSP,Transcontinental,4840,5350,0,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,1,3,F,400,7.24,36612,Airbus A330-300,18000,130275
+ANC - MSP,Transcontinental,5024,0,0,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,4,12,F,400,7.24,34013,Airbus A330-300,18000,130275
+ANC - MSP,Transcontinental,5151,0,0,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,4,11,F,400,7.24,33910,Airbus A330-300,18000,130275
+ANC - MSP,Transcontinental,5191,11200,0,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,2,4,F,400,7.24,35287,Airbus A330-300,18000,130275
+ANC - MSP,Transcontinental,6230,0,0,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,4,10,F,400,7.24,34871,Airbus A330-300,18000,130275
+ANC - MSP,Transcontinental,9160,16733,0,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,2,5,F,400,7.24,34134,Airbus A330-300,18000,130275
+ANC - MSP,Transcontinental,11030,11751,0,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,3,9,F,400,7.24,36001,Airbus A330-300,18000,130275
+ANC - MSP,Transcontinental,12993,71135,0,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,2,6,F,400,7.24,35811,Airbus A330-300,18000,130275
+ANC - MSP,Transcontinental,14329,23362,2078,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,3,7,F,400,7.24,33909,Airbus A330-300,17020,123182
+ANC - MSP,Transcontinental,15589,22216,1435,2519,DL,Delta Air Lines Inc.,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,3,8,F,400,7.24,36396,Airbus A330-300,18000,130275
+ANC - MSP,Transcontinental,343,0,0,2519,SY,Sun Country Airlines d/b/a MN Airlines,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,3,9,F,400,7.24,33766,Boeing 737-800,6000,43425
+ANC - MSP,Transcontinental,621,0,0,2519,SY,Sun Country Airlines d/b/a MN Airlines,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,2,5,F,400,7.24,34986,Boeing 737-800,6000,43425
+ANC - MSP,Transcontinental,4630,0,0,2519,SY,Sun Country Airlines d/b/a MN Airlines,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,2,6,F,400,7.24,34741,Boeing 737-800,6000,43425
+ANC - MSP,Transcontinental,4987,0,0,2519,SY,Sun Country Airlines d/b/a MN Airlines,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,3,8,F,400,7.24,35370,Boeing 737-800,6000,43425
+ANC - MSP,Transcontinental,9314,0,0,2519,SY,Sun Country Airlines d/b/a MN Airlines,ANC,"Anchorage, AK",MSP,"Minneapolis, MN",2024,3,7,F,400,7.24,36733,Boeing 737-800,6000,43425
+ANC - ORD,Transcontinental,507,0,0,2846,AA,American Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,3,9,F,588,5.47,34379,Boeing 777-300ER,21600,118238
+ANC - ORD,Transcontinental,3704,0,0,2846,AA,American Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,2,5,F,588,5.47,37074,Boeing 777-300ER,19605,107317
+ANC - ORD,Transcontinental,4479,0,0,2846,AA,American Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,2,6,F,588,5.47,35497,Boeing 777-300ER,19857,108696
+ANC - ORD,Transcontinental,5127,0,0,2846,AA,American Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,3,8,F,588,5.47,36086,Boeing 777-300ER,21600,118238
+ANC - ORD,Transcontinental,5145,0,0,2846,AA,American Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,3,7,F,588,5.47,34630,Boeing 777-300ER,21600,118238
+ANC - ORD,Transcontinental,324,168,0,2846,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,1,1,F,588,5.47,34094,Boeing 737-900ER,6600,36128
+ANC - ORD,Transcontinental,791,569,0,2846,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,1,3,F,588,5.47,35223,Boeing 737-900ER,6600,36128
+ANC - ORD,Transcontinental,1721,5461,0,2846,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,4,10,F,588,5.47,34803,Boeing 737-900ER,6600,36128
+ANC - ORD,Transcontinental,2128,10624,0,2846,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,2,4,F,588,5.47,35195,Boeing 737-900ER,6600,36128
+ANC - ORD,Transcontinental,4200,13622,0,2846,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,3,9,F,588,5.47,34028,Boeing 737-900ER,6388,34970
+ANC - ORD,Transcontinental,4865,33830,0,2846,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,2,5,F,588,5.47,35516,Boeing 737-900ER,6600,36128
+ANC - ORD,Transcontinental,7566,11906,53,2846,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,3,8,F,588,5.47,35351,Boeing 737-900ER,6600,36128
+ANC - ORD,Transcontinental,7720,68858,0,2846,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,2,6,F,588,5.47,34855,Boeing 737-900ER,6561,35917
+ANC - ORD,Transcontinental,9336,28498,105,2846,AS,Alaska Airlines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,3,7,F,588,5.47,35659,Boeing 737-900ER,6600,36128
+ANC - ORD,Transcontinental,1123,0,0,2846,UA,United Air Lines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,4,11,F,588,5.47,34806,Boeing 787-9,13129,71870
+ANC - ORD,Transcontinental,1182,215,0,2846,UA,United Air Lines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,1,1,F,588,5.47,36361,Boeing 787-9,12983,71071
+ANC - ORD,Transcontinental,2437,319,0,2846,UA,United Air Lines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,4,12,F,588,5.47,34508,Boeing 787-9,13878,75969
+ANC - ORD,Transcontinental,2524,2190,0,2846,UA,United Air Lines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,2,4,F,588,5.47,35392,Boeing 787-9,14400,78826
+ANC - ORD,Transcontinental,3777,4771,0,2846,UA,United Air Lines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,4,10,F,588,5.47,35152,Boeing 787-9,14012,76701
+ANC - ORD,Transcontinental,5821,11482,0,2846,UA,United Air Lines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,2,5,F,588,5.47,35825,Boeing 787-9,14400,78826
+ANC - ORD,Transcontinental,6102,15570,0,2846,UA,United Air Lines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,2,6,F,588,5.47,35874,Boeing 787-9,14400,78826
+ANC - ORD,Transcontinental,8326,2611,0,2846,UA,United Air Lines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,3,9,F,588,5.47,35265,Boeing 787-9,14400,78826
+ANC - ORD,Transcontinental,8608,4236,0,2846,UA,United Air Lines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,3,7,F,588,5.47,36236,Boeing 787-9,13571,74288
+ANC - ORD,Transcontinental,9406,4277,0,2846,UA,United Air Lines Inc.,ANC,"Anchorage, AK",ORD,"Chicago, IL",2024,3,8,F,588,5.47,34861,Boeing 787-9,14400,78826
